@@ -1,7 +1,7 @@
 # K. Sreesh Reddy's Data Science Portfolio
 This portfolio is a collection of notebooks that I prepared for experimenting with various Data Science and Machine Learning concepts along with the notebooks I submitted for competitions. Separate projects have their own category. 
 
-## Exploratory Data Analysis
+## Exploratory Data Analysis:
 ### Stock Analysis
 Stock Analysis is done on historic data so as to predict the trends which may occur in the future. Here we observe the stock prices of three companies, Tesla, Ford and GM in the 5 year range from 2012 to 2016. We also see if there is any relation between the three companies' stocks, view in the Moving Average (MA) form, observing the Daily Percentage Change and the Volatility, and Cumulative Return. Tools used are Pandas, Numpy, MatplotLib, Datareader, Scatter Matrix, Candlestick Chart, Box Plots.<br>
 [Github Link](https://github.com/sreesh2411/Stock-Analysis)<br>
