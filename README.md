@@ -35,7 +35,11 @@ Create a database wherein an admin exists whose responsibility is to update the 
 
 <hr>
 
-## Time Series Analysis
+## Time Series Analysis:
+### Forecast Temperature in the future
+This project deals with cleaning and analysis of data and drawing conclusions such as confirmations that the graph of temperatures are seasonal in nature etc. (EDA in notebook) and ARIMA is used to predict the future temperatures.
+[Github Link](https://github.com/sreesh2411/Time-Series-Analysis/tree/main/Predicting%20the%20temperatures)
+
 ### Predict future quantum of customers entering a shop
 Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. Forecasting is the use of a model to predict future values based on previously observed values. It is  widely used for non-stationary data, like economic, weather, stock price, and retail sales etc. In this project, we make use of time series models to forecast the future customers visiting the shop. Some major learnings were about types of decomposition, autocorrelation functions and conversion of data from non-stationary to stationary.<br>
 [Github Link](https://github.com/sreesh2411/Time-Series-Analysis)<br>
