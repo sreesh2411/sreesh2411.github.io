@@ -44,6 +44,12 @@ For other NLP Projects, check out [this link](https://github.com/sreesh2411/NLP-
 
 <hr>
 
+## Deep Learning
+To familiarize myself with various Deep Learning applications and algorithms, I implemented neural networks such as Convolutional Neural Netowrks (CNNs), Recurrent Neural Networks (RNNs), and Long Short Term Memory (LSTMs) on Topics such as Binary Data Classification, Breast Detection, IMDB Review Classification, and Multi-Class Image Classification.<br>
+[Github Link](https://github.com/sreesh2411/Deep-Learning-Projects)
+
+<hr>
+
 ## Time Series Analysis:
 ### Forecasting upcoming temperatures
 This project deals with cleaning and analysis of data and drawing conclusions such as confirmations that the graph of temperatures are seasonal in nature etc. (EDA in notebook) and ARIMA is used to predict the future temperatures.<br>
