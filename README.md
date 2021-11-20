@@ -12,6 +12,8 @@ With the rise of sports analytics, the desire for efficiency and data-driven jud
 [Github Link](https://github.com/sreesh2411/NBA-Analysis)<br>
 [NB Viewer](https://nbviewer.org/github/sreesh2411/NBA-Analysis/blob/main/nba_analysis.ipynb)
 
+<hr>
+
 ## Kaggle Competitions: 
 ### Titanic - Machine Learning from Disaster:
 Link: https://www.kaggle.com/c/titanic/overview <br>
@@ -21,8 +23,6 @@ The competition is simple: use machine learning to create a model that predicts 
 
 Score:  0.80622<br>
 [My Notebook](https://github.com/sreesh2411/Kaggle-Submissions/blob/main/Titanic/sreesh_titanic.ipynb)
-
-![Titanic Score](https://github.com/sreesh2411/Kaggle-Submissions/blob/main/Titanic/score.png)
 
 
 ### Housing Prices Competition for Kaggle Learn Users:
@@ -34,7 +34,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 Score: 16268.60103<br>
 [My Notebook](https://github.com/sreesh2411/Kaggle-Submissions/blob/main/Housing/sreesh_housing.ipynb)
 
-![Housing Score](https://github.com/sreesh2411/Kaggle-Submissions/blob/main/Housing/score.png)
+
 
 
 
