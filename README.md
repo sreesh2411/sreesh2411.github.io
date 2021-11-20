@@ -1,5 +1,11 @@
 # K. Sreesh Reddy's Data Science Portfolio
 This portfolio is a collection of notebooks that I prepared for experimenting with various Data Science and Machine Learning concepts along with the notebooks I submitted for competitions. Separate projects have their own category. 
+## Web Scraping:
+### Practice Project
+Using BeautifulSoup and Selenium, we scrape data from websites and store them in a dataframe using Pandas. We use various websites such as CodeChef, StackOverflow and Flipkart.
+[Github Link](https://github.com/sreesh2411/Web-Scraping)
+
+<hr>
 
 ## Exploratory Data Analysis:
 ### Stock Analysis
