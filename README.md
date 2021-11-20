@@ -32,6 +32,15 @@ Create a database wherein an admin exists whose responsibility is to update the 
 - Creating a trigger 
 - Writing complex SQL retrieval queries.<br>
 [Github Link](https://github.com/sreesh2411/DBMS-Project)
+
+<hr>
+
+## Time Series Analysis
+### Predict future quantum of customers entering a shop
+Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. Forecasting is the use of a model to predict future values based on previously observed values. It is  widely used for non-stationary data, like economic, weather, stock price, and retail sales etc. In this project, we make use of time series models to forecast the future customers visiting the shop. Some major learnings were about types of decomposition, autocorrelation functions and conversion of data from non-stationary to stationary.<br>
+[Github Link](https://github.com/sreesh2411/Time-Series-Analysis)<br>
+[Link to ppt](https://github.com/sreesh2411/Time-Series-Analysis/blob/main/Time%20Series%20Forecasting.pptx)
+
 <hr>
 
 ## Kaggle Competitions: 
