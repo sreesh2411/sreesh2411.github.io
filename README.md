@@ -21,7 +21,7 @@ This is the legendary Titanic ML competition – the best, first challenge for y
 
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-Score:  0.80622<br>
+Score:  0.80622 (Top 3%)<br>
 [My Notebook](https://github.com/sreesh2411/Kaggle-Submissions/blob/main/Titanic/sreesh_titanic.ipynb)
 
 
@@ -31,7 +31,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
-Score: 16268.60103<br>
+Score: 16268.60103 (Top 10%)<br>
 [My Notebook](https://github.com/sreesh2411/Kaggle-Submissions/blob/main/Housing/sreesh_housing.ipynb)
 
 
