@@ -8,7 +8,7 @@ Stock Analysis is done on historic data so as to predict the trends which may oc
 [NB Viewer](https://nbviewer.org/github/sreesh2411/stock-analysis/blob/master/StockAnalysis.ipynb)
 
 ### Statistically Best NBA Player
-With the rise of sports analytics, the desire for efficiency and data-driven judgments in recruiting new players for NBA clubs is increasing. We can now look at an extensive list of granular stats that range from the box score statistic, which assesses a player's impact to the team, to basic metrics like offensive rebounds, rather than merely eyeballing a player and judging their surface level playing stats (points, shot attempts, etc.). We may evaluate players using these measurements and determine who would be a good fit for a certain club depending on their attributes.<br>
+With the rise of sports analytics, the desire for efficiency and data-driven judgments in recruiting new players for NBA clubs is increasing. We can now look at an extensive list of granular stats that range from the box score statistic, which assesses a player's impact to the team, to basic metrics like offensive rebounds, rather than merely eyeballing a player and judging their surface level playing stats (points, shot attempts, etc.). We may evaluate players using these measurements and determine who would be a good fit for a certain club depending on their attributes. Main Source of inspiration to pursue such a project was the movie MoneyBall.<br>
 [Github Link](https://github.com/sreesh2411/NBA-Analysis)<br>
 [NB Viewer](https://nbviewer.org/github/sreesh2411/NBA-Analysis/blob/main/nba_analysis.ipynb)
 
