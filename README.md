@@ -22,7 +22,7 @@ With the rise of sports analytics, the desire for efficiency and data-driven jud
 
 ## SQL:
 ### Car Rental System
-Create a database wherein an admin exists whose responsibility is to update the registrations and update the rents and returns. In this rental a Customer who has been registered in the database can rent a car for any no. of days they want for a certain amount of fee. Cars are also registered in the database by the admin based on their make, model, and availability. Whenever a car has been rented by a customer, its availability status changes from “Yes” to “No” and a due date (date on which car will supposedly be returned) is provided. Customer details include name, address, customer id, phone no. and age. Some of the objectives were: 
+Created a relational database wherein an admin exists whose responsibility is to update the registrations and update the rents and returns. In this rental a Customer who has been registered in the database can rent a car for any no. of days they want for a certain amount of fee. Cars are also registered in the database by the admin based on their make, model, and availability. Whenever a car has been rented by a customer, its availability status changes from “Yes” to “No” and a due date (date on which car will supposedly be returned) is provided. Customer details include name, address, customer id, phone no. and age. Some of the objectives were: 
 - Identifying functional dependencies 
 - Identifying keys of the relations based on FDs 
 - Normalization
