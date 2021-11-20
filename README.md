@@ -37,7 +37,7 @@ Create a database wherein an admin exists whose responsibility is to update the 
 
 ## Time Series Analysis:
 ### Forecast Temperature in the future
-This project deals with cleaning and analysis of data and drawing conclusions such as confirmations that the graph of temperatures are seasonal in nature etc. (EDA in notebook) and ARIMA is used to predict the future temperatures.
+This project deals with cleaning and analysis of data and drawing conclusions such as confirmations that the graph of temperatures are seasonal in nature etc. (EDA in notebook) and ARIMA is used to predict the future temperatures.<br>
 [Github Link](https://github.com/sreesh2411/Time-Series-Analysis/tree/main/Predicting%20the%20temperatures)
 
 ### Predict future quantum of customers entering a shop
