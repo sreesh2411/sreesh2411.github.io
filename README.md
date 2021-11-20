@@ -41,7 +41,7 @@ Generation of Natural Language (NLG) It performs the function of a translator, c
 [Github Link](https://github.com/sreesh2411/NLP-Projects/tree/main/auto-text-generation)<br>
 
 ### Twitter Sentiment Analysis
-Sentiment Analysis of the tweet to computationally determine whether a piece of writing is positive, negative or neutral. Some novel steps I encountered in the project were understanding the working of textblob, understanding Twitter APIs and how to connect to them etc.
+Sentiment Analysis of the tweet to computationally determine whether a piece of writing is positive, negative or neutral. Some novel steps I encountered in the project were understanding the working of textblob, understanding Twitter APIs and how to connect to them etc.<br>
 [Github Link](https://github.com/sreesh2411/NLP-Projects/tree/main/twitter-sentiment-analysis)
 
 For other NLP Projects, check out [this link](https://github.com/sreesh2411/NLP-Projects/)
