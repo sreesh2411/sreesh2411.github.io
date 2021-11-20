@@ -29,7 +29,7 @@ Create a database wherein an admin exists whose responsibility is to update the 
 <hr>
 
 ## Kaggle Competitions: 
-### Titanic - Machine Learning from Disaster:
+### Titanic - Machine Learning from Disaster
 Link: https://www.kaggle.com/c/titanic/overview <br>
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
 
@@ -39,7 +39,7 @@ Score:  0.80622 (Top 3%)<br>
 [My Notebook](https://github.com/sreesh2411/Kaggle-Submissions/blob/main/Titanic/sreesh_titanic.ipynb)
 
 
-### Housing Prices Competition for Kaggle Learn Users:
+### Housing Prices Competition for Kaggle Learn Users
 Link: https://www.kaggle.com/c/home-data-for-ml-course <br>
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
