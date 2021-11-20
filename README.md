@@ -40,6 +40,10 @@ Created a relational database wherein an admin exists whose responsibility is to
 Generation of Natural Language (NLG) It performs the function of a translator, converting digital data into natural language representation. Text planning, Sentence planning, and Text Realization are the essential components. Dataset: https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt. The dataset was chosen from shakespeare lecturenotes with the following goal in mind: Our final goal is to generate the 51st text from a seed text of 50 words for a particular sentence. As a result, we were able to create models to generate the 51st text for a given sentence with 50 words as seed text. This can come in handy when we're writing a business or personal email or essay. Made use of Tensorflow, Keras and LSTM.<br>
 [Github Link](https://github.com/sreesh2411/NLP-Projects/tree/main/auto-text-generation)<br>
 
+### Twitter Sentiment Analysis
+Sentiment Analysis of the tweet to computationally determine whether a piece of writing is positive, negative or neutral. Some novel steps I encountered in the project were understanding the working of textblob, understanding Twitter APIs and how to connect to them etc.
+[Github Link](https://github.com/sreesh2411/NLP-Projects/tree/main/twitter-sentiment-analysis)
+
 For other NLP Projects, check out [this link](https://github.com/sreesh2411/NLP-Projects/)
 
 <hr>
