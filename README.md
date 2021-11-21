@@ -35,6 +35,16 @@ Created a relational database wherein an admin exists whose responsibility is to
 
 <hr>
 
+## Machine Learning:
+### Predict Medical Health Expenses
+Project in which we try to predict the expenses due to medical health. Understood the importance of Data Analysis and Data Visualization for determining the association between features,
+How to build intuition by building insights from Data Visualization,
+How to deal with categorical variables,
+Learnt about different Assumptions to be satisfied before using a Linear Regression Model, Learned different predictive models such as Linear Regression, Random Forest and Gradient Boosting model, Learned how to ensemble different models, Understood the importance of cross validation on the data, Learned the importance of comparing different predictive models.
+[Github Link](https://github.com/sreesh2411/ML-Projects/tree/main/Predict%20Medical%20Health%20Expenses)
+
+<hr>
+
 ## Natural Language Processing:
 ### Auto Text Generation
 Generation of Natural Language (NLG) It performs the function of a translator, converting digital data into natural language representation. Text planning, Sentence planning, and Text Realization are the essential components. Dataset: https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt. The dataset was chosen from shakespeare lecturenotes with the following goal in mind: Our final goal is to generate the 51st text from a seed text of 50 words for a particular sentence. As a result, we were able to create models to generate the 51st text for a given sentence with 50 words as seed text. This can come in handy when we're writing a business or personal email or essay. Made use of Tensorflow, Keras and LSTM.<br>
