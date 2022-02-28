@@ -58,7 +58,7 @@ For other NLP Projects, check out [this link](https://github.com/sreesh2411/NLP-
 
 <hr>
 
-## Deep Learning
+## Deep Learning:
 To familiarize myself with various Deep Learning applications and algorithms, I implemented neural networks such as Convolutional Neural Netowrks (CNNs), Recurrent Neural Networks (RNNs), and Long Short Term Memory (LSTMs) on Topics such as Binary Data Classification, Breast Detection, IMDB Review Classification, and Multi-Class Image Classification.<br>
 [Github Link](https://github.com/sreesh2411/Deep-Learning-Projects)
 
