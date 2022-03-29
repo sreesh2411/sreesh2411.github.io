@@ -7,7 +7,7 @@ Using BeautifulSoup and Selenium, we scrape data from websites and store them in
 
 <hr>
 
-## Exploratory Data Analysis:
+## <u>Exploratory Data Analysis:>/u>
 ### Stock Analysis
 Stock Analysis is done on historic data so as to predict the trends which may occur in the future. Here we observe the stock prices of three companies, Tesla, Ford and GM in the 5 year range from 2012 to 2016. We also see if there is any relation between the three companies' stocks, view in the Moving Average (MA) form, observing the Daily Percentage Change and the Volatility, and Cumulative Return. Tools used are Pandas, Numpy, MatplotLib, Datareader, Scatter Matrix, Candlestick Chart, Box Plots.<br>
 [Github Link](https://github.com/sreesh2411/Stock-Analysis)<br>
@@ -20,7 +20,7 @@ With the rise of sports analytics, the desire for efficiency and data-driven jud
 
 <hr>
 
-## SQL:
+## <u>SQL:</u>
 ### Car Rental System
 Created a relational database wherein an admin exists whose responsibility is to update the registrations and update the rents and returns. In this rental a Customer who has been registered in the database can rent a car for any no. of days they want for a certain amount of fee. Cars are also registered in the database by the admin based on their make, model, and availability. Whenever a car has been rented by a customer, its availability status changes from “Yes” to “No” and a due date (date on which car will supposedly be returned) is provided. Customer details include name, address, customer id, phone no. and age. Some of the objectives were: 
 - Identifying functional dependencies 
@@ -35,7 +35,7 @@ Created a relational database wherein an admin exists whose responsibility is to
 
 <hr>
 
-## Machine Learning:
+## <u>Machine Learning:</u>
 ### Predict Medical Health Expenses
 Project in which we try to predict the expenses due to medical health. Understood the importance of Data Analysis and Data Visualization for determining the association between features,
 How to build intuition by building insights from Data Visualization,
@@ -45,7 +45,7 @@ Learnt about different Assumptions to be satisfied before using a Linear Regress
 
 <hr>
 
-## Natural Language Processing:
+  ## <u>Natural Language Processing:</u>
 ### Auto Text Generation
 Generation of Natural Language (NLG) It performs the function of a translator, converting digital data into natural language representation. Text planning, Sentence planning, and Text Realization are the essential components. Dataset: https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt. The dataset was chosen from shakespeare lecturenotes with the following goal in mind: Our final goal is to generate the 51st text from a seed text of 50 words for a particular sentence. As a result, we were able to create models to generate the 51st text for a given sentence with 50 words as seed text. This can come in handy when we're writing a business or personal email or essay. Made use of Tensorflow, Keras and LSTM.<br>
 [Github Link](https://github.com/sreesh2411/NLP-Projects/tree/main/auto-text-generation)<br>
@@ -58,13 +58,13 @@ For other NLP Projects, check out [this link](https://github.com/sreesh2411/NLP-
 
 <hr>
 
-## Deep Learning:
+  ## <u>Deep Learning:</u>
 To familiarize myself with various Deep Learning applications and algorithms, I implemented neural networks such as Convolutional Neural Netowrks (CNNs), Recurrent Neural Networks (RNNs), and Long Short Term Memory (LSTMs) on Topics such as Binary Data Classification, Breast Detection, IMDB Review Classification, and Multi-Class Image Classification.<br>
 [Github Link](https://github.com/sreesh2411/Deep-Learning-Projects)
 
 <hr>
 
-## Time Series Analysis:
+  ## <u>Time Series Analysis:</u>
 ### Forecasting upcoming temperatures
 This project deals with cleaning and analysis of data and drawing conclusions such as confirmations that the graph of temperatures are seasonal in nature etc. (EDA in notebook) and ARIMA is used to predict the future temperatures.<br>
 [Github Link](https://github.com/sreesh2411/Time-Series-Analysis/tree/main/Predicting%20the%20temperatures)
@@ -76,7 +76,7 @@ Time series analysis comprises methods for analyzing time series data in order t
 
 <hr>
 
-## Kaggle Competitions: 
+  ## <u>Kaggle Competitions:</u> 
 ### Titanic - Machine Learning from Disaster
 Link: https://www.kaggle.com/c/titanic/overview <br>
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
