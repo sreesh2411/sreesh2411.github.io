@@ -1,6 +1,6 @@
 # K. Sreesh Reddy's Data Science Portfolio
 This portfolio is a collection of notebooks that I prepared for experimenting with various Data Science and Machine Learning concepts along with the notebooks I submitted for competitions. Separate projects have their own category. 
-## Web Scraping:
+## <u>Web Scraping:</u>
 ### Automated Scraping Project
 Using BeautifulSoup and Selenium, we scrape data from websites and store them in a dataframe using Pandas. We use various websites such as CodeChef, StackOverflow and Flipkart.<br>
 [Github Link](https://github.com/sreesh2411/Web-Scraping)
@@ -45,7 +45,7 @@ Learnt about different Assumptions to be satisfied before using a Linear Regress
 
 <hr>
 
-  ## <u>Natural Language Processing:</u>
+## <u>Natural Language Processing:</u>
 ### Auto Text Generation
 Generation of Natural Language (NLG) It performs the function of a translator, converting digital data into natural language representation. Text planning, Sentence planning, and Text Realization are the essential components. Dataset: https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt. The dataset was chosen from shakespeare lecturenotes with the following goal in mind: Our final goal is to generate the 51st text from a seed text of 50 words for a particular sentence. As a result, we were able to create models to generate the 51st text for a given sentence with 50 words as seed text. This can come in handy when we're writing a business or personal email or essay. Made use of Tensorflow, Keras and LSTM.<br>
 [Github Link](https://github.com/sreesh2411/NLP-Projects/tree/main/auto-text-generation)<br>
@@ -58,13 +58,13 @@ For other NLP Projects, check out [this link](https://github.com/sreesh2411/NLP-
 
 <hr>
 
-  ## <u>Deep Learning:</u>
+## <u>Deep Learning:</u>
 To familiarize myself with various Deep Learning applications and algorithms, I implemented neural networks such as Convolutional Neural Netowrks (CNNs), Recurrent Neural Networks (RNNs), and Long Short Term Memory (LSTMs) on Topics such as Binary Data Classification, Breast Detection, IMDB Review Classification, and Multi-Class Image Classification.<br>
 [Github Link](https://github.com/sreesh2411/Deep-Learning-Projects)
 
 <hr>
 
-  ## <u>Time Series Analysis:</u>
+## <u>Time Series Analysis:</u>
 ### Forecasting upcoming temperatures
 This project deals with cleaning and analysis of data and drawing conclusions such as confirmations that the graph of temperatures are seasonal in nature etc. (EDA in notebook) and ARIMA is used to predict the future temperatures.<br>
 [Github Link](https://github.com/sreesh2411/Time-Series-Analysis/tree/main/Predicting%20the%20temperatures)
@@ -76,7 +76,7 @@ Time series analysis comprises methods for analyzing time series data in order t
 
 <hr>
 
-  ## <u>Kaggle Competitions:</u> 
+## <u>Kaggle Competitions:</u> 
 ### Titanic - Machine Learning from Disaster
 Link: https://www.kaggle.com/c/titanic/overview <br>
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
