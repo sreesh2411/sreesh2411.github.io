@@ -1,5 +1,8 @@
 # K. Sreesh Reddy's Data Science Portfolio
 This portfolio is a collection of notebooks that I prepared for experimenting with various Data Science and Machine Learning concepts along with the notebooks I submitted to competitions. Separate projects have their own category. 
+
+Current Project Link: https://people.tamu.edu/~ksreesh/
+
 ## <u>Web Scraping:</u>
 ### Automated Scraping Project
 Using BeautifulSoup and Selenium, we scrape data from websites and store them in a dataframe using Pandas. We use various websites such as CodeChef, StackOverflow and Flipkart.<br>
